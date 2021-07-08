@@ -1,0 +1,16 @@
+C:\Users\donai\source\repos\BotLogarFacebook\BotLogarFacebook\bin\Debug\netcoreapp3.1\BotLogarFacebook.exe
+C:\Users\donai\source\repos\BotLogarFacebook\BotLogarFacebook\bin\Debug\netcoreapp3.1\BotLogarFacebook.deps.json
+C:\Users\donai\source\repos\BotLogarFacebook\BotLogarFacebook\bin\Debug\netcoreapp3.1\BotLogarFacebook.runtimeconfig.json
+C:\Users\donai\source\repos\BotLogarFacebook\BotLogarFacebook\bin\Debug\netcoreapp3.1\BotLogarFacebook.runtimeconfig.dev.json
+C:\Users\donai\source\repos\BotLogarFacebook\BotLogarFacebook\bin\Debug\netcoreapp3.1\BotLogarFacebook.dll
+C:\Users\donai\source\repos\BotLogarFacebook\BotLogarFacebook\bin\Debug\netcoreapp3.1\BotLogarFacebook.pdb
+C:\Users\donai\source\repos\BotLogarFacebook\BotLogarFacebook\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\donai\source\repos\BotLogarFacebook\BotLogarFacebook\bin\Debug\netcoreapp3.1\WebDriver.dll
+C:\Users\donai\source\repos\BotLogarFacebook\BotLogarFacebook\obj\Debug\netcoreapp3.1\BotLogarFacebook.csprojAssemblyReference.cache
+C:\Users\donai\source\repos\BotLogarFacebook\BotLogarFacebook\obj\Debug\netcoreapp3.1\BotLogarFacebook.AssemblyInfoInputs.cache
+C:\Users\donai\source\repos\BotLogarFacebook\BotLogarFacebook\obj\Debug\netcoreapp3.1\BotLogarFacebook.AssemblyInfo.cs
+C:\Users\donai\source\repos\BotLogarFacebook\BotLogarFacebook\obj\Debug\netcoreapp3.1\BotLogarFacebook.csproj.CoreCompileInputs.cache
+C:\Users\donai\source\repos\BotLogarFacebook\BotLogarFacebook\obj\Debug\netcoreapp3.1\BotLogarFacebook.csproj.CopyComplete
+C:\Users\donai\source\repos\BotLogarFacebook\BotLogarFacebook\obj\Debug\netcoreapp3.1\BotLogarFacebook.dll
+C:\Users\donai\source\repos\BotLogarFacebook\BotLogarFacebook\obj\Debug\netcoreapp3.1\BotLogarFacebook.pdb
+C:\Users\donai\source\repos\BotLogarFacebook\BotLogarFacebook\obj\Debug\netcoreapp3.1\BotLogarFacebook.genruntimeconfig.cache
